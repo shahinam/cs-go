@@ -1,0 +1,6 @@
+# Binaries
+*.so
+*.dylib
+
+# Test binary
+*.test
